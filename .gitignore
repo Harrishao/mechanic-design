@@ -1,5 +1,7 @@
 机械原理课程设计任务书
 reference
+*.zip
+~*
 
 .claude
 .vscode
